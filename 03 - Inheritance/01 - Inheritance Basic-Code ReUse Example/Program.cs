@@ -14,7 +14,7 @@ namespace InheritanceEmployeeExample
 
             //Access to base class field members
             fte.firstName = "Rohit";
-            fte.lastName = "Verma";
+            fte.lastName = "Pandya";
 
             //Access to derived class field members
             fte.yearlySal = 50000;
