@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace MethodOverloading
 {
-    //MethodOverlaoding is a concept where we have multiple methods having siilar names but they vary by their method signatures.
+    // MethodOverlaoding is a concept where we have multiple methods having similar names but they vary by their method signatures.
     /*
      * It can be implemented by 
-     * 1. Changing the number of arguments. -- Implemented by Add Method on AddMethod class
+     * 1. Changing the number of arguments. -- Implemented by Add method on AddMethod class
      * 2. Changing order of arguments. -- Implemented by PrintYourName_Age method on YourNameAndAge class
-     * 3. Changing type of arguments.
+     * 3. Changing type of arguments. -- Implemented by checkType method on TypeArgument class
      */
     class Program
     {
